@@ -1,0 +1,8 @@
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\pretizeni_metod\pretizeni_metod\bin\Debug\pretizeni_metod.exe.config
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\pretizeni_metod\pretizeni_metod\bin\Debug\pretizeni_metod.exe
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\pretizeni_metod\pretizeni_metod\bin\Debug\pretizeni_metod.pdb
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\pretizeni_metod\pretizeni_metod\obj\Debug\pretizeni_metod.csproj.AssemblyReference.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\pretizeni_metod\pretizeni_metod\obj\Debug\pretizeni_metod.csproj.SuggestedBindingRedirects.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\pretizeni_metod\pretizeni_metod\obj\Debug\pretizeni_metod.csproj.CoreCompileInputs.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\pretizeni_metod\pretizeni_metod\obj\Debug\pretizeni_metod.exe
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\pretizeni_metod\pretizeni_metod\obj\Debug\pretizeni_metod.pdb

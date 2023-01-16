@@ -1,0 +1,8 @@
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zaklady_OPP_1\Zaklady_OPP_1\bin\Debug\Zaklady_OPP_1.exe.config
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zaklady_OPP_1\Zaklady_OPP_1\bin\Debug\Zaklady_OPP_1.exe
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zaklady_OPP_1\Zaklady_OPP_1\bin\Debug\Zaklady_OPP_1.pdb
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zaklady_OPP_1\Zaklady_OPP_1\obj\Debug\Zaklady_OPP_1.csproj.AssemblyReference.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zaklady_OPP_1\Zaklady_OPP_1\obj\Debug\Zaklady_OPP_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zaklady_OPP_1\Zaklady_OPP_1\obj\Debug\Zaklady_OPP_1.csproj.CoreCompileInputs.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zaklady_OPP_1\Zaklady_OPP_1\obj\Debug\Zaklady_OPP_1.exe
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zaklady_OPP_1\Zaklady_OPP_1\obj\Debug\Zaklady_OPP_1.pdb

@@ -1,0 +1,8 @@
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\OOP_Základy_Opakování_1\OOP_Základy_Opakování_1\obj\Debug\OOP_Základy_Opakování_1.csproj.AssemblyReference.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\OOP_Základy_Opakování_1\OOP_Základy_Opakování_1\obj\Debug\OOP_Základy_Opakování_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\OOP_Základy_Opakování_1\OOP_Základy_Opakování_1\obj\Debug\OOP_Základy_Opakování_1.csproj.CoreCompileInputs.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\OOP_Základy_Opakování_1\OOP_Základy_Opakování_1\bin\Debug\OOP_Základy_Opakování_1.exe.config
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\OOP_Základy_Opakování_1\OOP_Základy_Opakování_1\bin\Debug\OOP_Základy_Opakování_1.exe
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\OOP_Základy_Opakování_1\OOP_Základy_Opakování_1\bin\Debug\OOP_Základy_Opakování_1.pdb
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\OOP_Základy_Opakování_1\OOP_Základy_Opakování_1\obj\Debug\OOP_Základy_Opakování_1.exe
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\OOP_Základy_Opakování_1\OOP_Základy_Opakování_1\obj\Debug\OOP_Základy_Opakování_1.pdb

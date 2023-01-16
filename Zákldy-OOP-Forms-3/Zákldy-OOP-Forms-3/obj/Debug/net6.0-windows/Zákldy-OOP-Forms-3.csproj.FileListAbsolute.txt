@@ -1,0 +1,17 @@
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zákldy-OOP-Forms-3\Zákldy-OOP-Forms-3\bin\Debug\net6.0-windows\Zákldy-OOP-Forms-3.exe
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zákldy-OOP-Forms-3\Zákldy-OOP-Forms-3\bin\Debug\net6.0-windows\Zákldy-OOP-Forms-3.deps.json
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zákldy-OOP-Forms-3\Zákldy-OOP-Forms-3\bin\Debug\net6.0-windows\Zákldy-OOP-Forms-3.runtimeconfig.json
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zákldy-OOP-Forms-3\Zákldy-OOP-Forms-3\bin\Debug\net6.0-windows\Zákldy-OOP-Forms-3.dll
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zákldy-OOP-Forms-3\Zákldy-OOP-Forms-3\bin\Debug\net6.0-windows\Zákldy-OOP-Forms-3.pdb
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zákldy-OOP-Forms-3\Zákldy-OOP-Forms-3\obj\Debug\net6.0-windows\Zákldy-OOP-Forms-3.csproj.AssemblyReference.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zákldy-OOP-Forms-3\Zákldy-OOP-Forms-3\obj\Debug\net6.0-windows\Zákldy_OOP_Forms_3.Form1.resources
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zákldy-OOP-Forms-3\Zákldy-OOP-Forms-3\obj\Debug\net6.0-windows\Zákldy-OOP-Forms-3.csproj.GenerateResource.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zákldy-OOP-Forms-3\Zákldy-OOP-Forms-3\obj\Debug\net6.0-windows\Zákldy-OOP-Forms-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zákldy-OOP-Forms-3\Zákldy-OOP-Forms-3\obj\Debug\net6.0-windows\Zákldy-OOP-Forms-3.AssemblyInfoInputs.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zákldy-OOP-Forms-3\Zákldy-OOP-Forms-3\obj\Debug\net6.0-windows\Zákldy-OOP-Forms-3.AssemblyInfo.cs
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zákldy-OOP-Forms-3\Zákldy-OOP-Forms-3\obj\Debug\net6.0-windows\Zákldy-OOP-Forms-3.csproj.CoreCompileInputs.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zákldy-OOP-Forms-3\Zákldy-OOP-Forms-3\obj\Debug\net6.0-windows\Zákldy-OOP-Forms-3.dll
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zákldy-OOP-Forms-3\Zákldy-OOP-Forms-3\obj\Debug\net6.0-windows\refint\Zákldy-OOP-Forms-3.dll
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zákldy-OOP-Forms-3\Zákldy-OOP-Forms-3\obj\Debug\net6.0-windows\Zákldy-OOP-Forms-3.pdb
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zákldy-OOP-Forms-3\Zákldy-OOP-Forms-3\obj\Debug\net6.0-windows\Zákldy-OOP-Forms-3.genruntimeconfig.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Zákldy-OOP-Forms-3\Zákldy-OOP-Forms-3\obj\Debug\net6.0-windows\ref\Zákldy-OOP-Forms-3.dll

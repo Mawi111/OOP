@@ -1,0 +1,5 @@
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Konvice_Koukal\Konvice_Koukal\obj\Debug\netcoreapp3.1\Konvice_Koukal.csproj.AssemblyReference.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Konvice_Koukal\Konvice_Koukal\obj\Debug\netcoreapp3.1\Konvice_Koukal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Konvice_Koukal\Konvice_Koukal\obj\Debug\netcoreapp3.1\Konvice_Koukal.AssemblyInfoInputs.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Konvice_Koukal\Konvice_Koukal\obj\Debug\netcoreapp3.1\Konvice_Koukal.AssemblyInfo.cs
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Konvice_Koukal\Konvice_Koukal\obj\Debug\netcoreapp3.1\Konvice_Koukal.csproj.CoreCompileInputs.cache

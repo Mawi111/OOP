@@ -1,0 +1,17 @@
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Základy-OOP-Forms-2\Základy-OOP-Forms-2\bin\Debug\net6.0-windows\Základy-OOP-Forms-2.exe
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Základy-OOP-Forms-2\Základy-OOP-Forms-2\bin\Debug\net6.0-windows\Základy-OOP-Forms-2.deps.json
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Základy-OOP-Forms-2\Základy-OOP-Forms-2\bin\Debug\net6.0-windows\Základy-OOP-Forms-2.runtimeconfig.json
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Základy-OOP-Forms-2\Základy-OOP-Forms-2\bin\Debug\net6.0-windows\Základy-OOP-Forms-2.dll
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Základy-OOP-Forms-2\Základy-OOP-Forms-2\bin\Debug\net6.0-windows\Základy-OOP-Forms-2.pdb
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Základy-OOP-Forms-2\Základy-OOP-Forms-2\obj\Debug\net6.0-windows\Základy-OOP-Forms-2.csproj.AssemblyReference.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Základy-OOP-Forms-2\Základy-OOP-Forms-2\obj\Debug\net6.0-windows\Základy_OOP_Forms_2.Form1.resources
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Základy-OOP-Forms-2\Základy-OOP-Forms-2\obj\Debug\net6.0-windows\Základy-OOP-Forms-2.csproj.GenerateResource.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Základy-OOP-Forms-2\Základy-OOP-Forms-2\obj\Debug\net6.0-windows\Základy-OOP-Forms-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Základy-OOP-Forms-2\Základy-OOP-Forms-2\obj\Debug\net6.0-windows\Základy-OOP-Forms-2.AssemblyInfoInputs.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Základy-OOP-Forms-2\Základy-OOP-Forms-2\obj\Debug\net6.0-windows\Základy-OOP-Forms-2.AssemblyInfo.cs
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Základy-OOP-Forms-2\Základy-OOP-Forms-2\obj\Debug\net6.0-windows\Základy-OOP-Forms-2.csproj.CoreCompileInputs.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Základy-OOP-Forms-2\Základy-OOP-Forms-2\obj\Debug\net6.0-windows\Základy-OOP-Forms-2.dll
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Základy-OOP-Forms-2\Základy-OOP-Forms-2\obj\Debug\net6.0-windows\refint\Základy-OOP-Forms-2.dll
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Základy-OOP-Forms-2\Základy-OOP-Forms-2\obj\Debug\net6.0-windows\Základy-OOP-Forms-2.pdb
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Základy-OOP-Forms-2\Základy-OOP-Forms-2\obj\Debug\net6.0-windows\Základy-OOP-Forms-2.genruntimeconfig.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\Základy-OOP-Forms-2\Základy-OOP-Forms-2\obj\Debug\net6.0-windows\ref\Základy-OOP-Forms-2.dll

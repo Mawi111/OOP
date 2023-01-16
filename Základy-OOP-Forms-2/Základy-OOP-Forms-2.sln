@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Základy-OOP-Forms-2", "Základy-OOP-Forms-2\Základy-OOP-Forms-2.csproj", "{B84B41C8-0B1B-4B41-A005-3D8C08633AA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B84B41C8-0B1B-4B41-A005-3D8C08633AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84B41C8-0B1B-4B41-A005-3D8C08633AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84B41C8-0B1B-4B41-A005-3D8C08633AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84B41C8-0B1B-4B41-A005-3D8C08633AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36C197C1-38CC-4662-82D8-D2260485C221}
+	EndGlobalSection
+EndGlobal

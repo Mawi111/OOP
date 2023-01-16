@@ -1,0 +1,8 @@
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\otázky\otázky\bin\Debug\otázky.exe.config
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\otázky\otázky\bin\Debug\otázky.exe
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\otázky\otázky\bin\Debug\otázky.pdb
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\otázky\otázky\obj\Debug\otázky.csproj.AssemblyReference.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\otázky\otázky\obj\Debug\otázky.csproj.SuggestedBindingRedirects.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\otázky\otázky\obj\Debug\otázky.csproj.CoreCompileInputs.cache
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\otázky\otázky\obj\Debug\otázky.exe
+C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\otázky\otázky\obj\Debug\otázky.pdb
