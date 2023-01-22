@@ -15,7 +15,7 @@ namespace OOP_Základy_Opakování_3
         public Zeme()
         {
             vychoziPlaneta = "Země";
-            vychoziSoustava = "Místí hvězdokupa";
+            vychoziSoustava = "Místní hvězdokupa";
         }
         public string vratVychoziPlaneta()
         {

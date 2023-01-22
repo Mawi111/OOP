@@ -9,21 +9,20 @@ namespace OOP_Základy_Opakování_3
     internal class Planeta
     {
         public string nazev;
-        public long pozice;
+        public float pozice;
         public string soustava;
-        public string vychoziPlaneta;
 
-        public Planeta()
+        public Planeta(string nazev, float pozice, string soustava)
         {
-            nazev = "Tiviera";
-            pozice = 70000000000;
-            soustava = "Erecus";
+            this.nazev = nazev;
+            this.pozice = pozice;
+            this.soustava = soustava;
         }
         public string vratNazev()
         {
             return nazev;
         }
-        public long vratPozice()
+        public float vratPozice()
         {
             return pozice;
         }

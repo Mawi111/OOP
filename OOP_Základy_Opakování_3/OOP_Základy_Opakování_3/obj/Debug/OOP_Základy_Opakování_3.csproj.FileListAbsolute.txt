@@ -6,3 +6,11 @@ C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\OOP_Základy_Opakován�
 C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\OOP_Základy_Opakování_3\OOP_Základy_Opakování_3\obj\Debug\OOP_Základy_Opakování_3.csproj.CoreCompileInputs.cache
 C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\OOP_Základy_Opakování_3\OOP_Základy_Opakování_3\obj\Debug\OOP_Základy_Opakování_3.exe
 C:\Users\VitoT\Desktop\MATURITA\Programko\praktická\OOP\OOP_Základy_Opakování_3\OOP_Základy_Opakování_3\obj\Debug\OOP_Základy_Opakování_3.pdb
+C:\GitHub\OOP\OOP_Základy_Opakování_3\OOP_Základy_Opakování_3\bin\Debug\OOP_Základy_Opakování_3.exe.config
+C:\GitHub\OOP\OOP_Základy_Opakování_3\OOP_Základy_Opakování_3\bin\Debug\OOP_Základy_Opakování_3.exe
+C:\GitHub\OOP\OOP_Základy_Opakování_3\OOP_Základy_Opakování_3\bin\Debug\OOP_Základy_Opakování_3.pdb
+C:\GitHub\OOP\OOP_Základy_Opakování_3\OOP_Základy_Opakování_3\obj\Debug\OOP_Základy_Opakování_3.csproj.AssemblyReference.cache
+C:\GitHub\OOP\OOP_Základy_Opakování_3\OOP_Základy_Opakování_3\obj\Debug\OOP_Základy_Opakování_3.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\OOP\OOP_Základy_Opakování_3\OOP_Základy_Opakování_3\obj\Debug\OOP_Základy_Opakování_3.csproj.CoreCompileInputs.cache
+C:\GitHub\OOP\OOP_Základy_Opakování_3\OOP_Základy_Opakování_3\obj\Debug\OOP_Základy_Opakování_3.exe
+C:\GitHub\OOP\OOP_Základy_Opakování_3\OOP_Základy_Opakování_3\obj\Debug\OOP_Základy_Opakování_3.pdb
