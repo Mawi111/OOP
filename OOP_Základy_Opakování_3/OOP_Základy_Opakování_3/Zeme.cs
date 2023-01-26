@@ -10,7 +10,6 @@ namespace OOP_Základy_Opakování_3
     {
         public string vychoziPlaneta;
         public string vychoziSoustava;
-        public long pozice;
         
         public Zeme()
         {

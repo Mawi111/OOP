@@ -16,6 +16,10 @@ namespace OOP_Základy_Opakování_3
             Planeta Wolf = new Planeta("Wolf 1061c", 13.8F, "Hadonoš");
             Zeme zeme = new Zeme();
             Raketa raketa = new Raketa();
+            Posadka posadka = new Posadka();
+
+            Console.WriteLine("==============================");
+            posadka.Crew();
 
             Console.WriteLine("==============================");
 
