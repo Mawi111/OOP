@@ -17,13 +17,14 @@ namespace OOP_Základy_Opakování_3
             {
                 if (pocetClenu <= 6)
                 {
-                    for (int pocetClenu = 0; pocetClenu <= 6; pocetClenu++) ;
-                        Console.Write("{0} ", pocetClenu);
+                    Console.WriteLine("V raketě poletí " + pocetClenu);
                     
                 }
-                else if (pocetClenu < 6)
+                else if (pocetClenu > 6)
                 {
-                    Console.WriteLine("Více než 6 členů raketa neuveze");
+                    Console.WriteLine("Více než 6 členů raketa neuveze. [Zmáčkni ENTER]");
+                    Console.ReadKey();
+                    System.Environment.Exit(0);
                 }
 
 

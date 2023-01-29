@@ -11,22 +11,27 @@ namespace OOP_Základy_Opakování_3
     {
         static void Main(string[] args)
         {
-            Planeta Proxima = new Planeta("Proxima Centauri b", 4.2F, "Kentaur");
-            Planeta Luyten = new Planeta("Luyten b", 12.36F, "Malý pes");
-            Planeta Wolf = new Planeta("Wolf 1061c", 13.8F, "Hadonoš");
+            Planeta Proxima = new Planeta("Proxima Centauri b", 4.2F, "Kentaur", 3);
+            Planeta Luyten = new Planeta("Luyten b", 12.36F, "Malý pes", 3);
+            Planeta Wolf = new Planeta("Wolf 1061c", 13.8F, "Hadonoš", 1);
             Zeme zeme = new Zeme();
             Raketa raketa = new Raketa();
             Posadka posadka = new Posadka();
 
             Console.WriteLine("==============================");
-            posadka.Crew();
+            Console.WriteLine("Vítám tě v jednoduché vesmírné hře. [Zmáčkni ENTER]");
+            Console.ReadKey();
+            Console.WriteLine("Cílem hry je dostat co možná v největším počtu šesti členou posádku na tebou vybranouj planetu. \nAle POZOR! Každá cesta má určitou míru nebezpečí! [Zmáčkni ENTER]");
+            Console.ReadKey();
+            //Console.WriteLine("==============================");
+            //posadka.Crew();
 
             Console.WriteLine("==============================");
 
             Console.WriteLine("Stav paliva: " + raketa.stavPaliva + " hl");
             Console.WriteLine("Aktuální stav rakety: "+raketa.stavLodi1);
 
-            Console.WriteLine("Zmáčkni enter");
+            Console.WriteLine("[Zmáčkni ENTER]");
             string pokracovat = Console.ReadKey().Key.ToString();
             if (pokracovat == "Enter")
             {

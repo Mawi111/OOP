@@ -1,0 +1,8 @@
+C:\GitHub\Hra\Hra\bin\Debug\Hra.exe.config
+C:\GitHub\Hra\Hra\bin\Debug\Hra.exe
+C:\GitHub\Hra\Hra\bin\Debug\Hra.pdb
+C:\GitHub\Hra\Hra\obj\Debug\Hra.csproj.AssemblyReference.cache
+C:\GitHub\Hra\Hra\obj\Debug\Hra.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\Hra\Hra\obj\Debug\Hra.csproj.CoreCompileInputs.cache
+C:\GitHub\Hra\Hra\obj\Debug\Hra.exe
+C:\GitHub\Hra\Hra\obj\Debug\Hra.pdb
