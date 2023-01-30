@@ -18,34 +18,26 @@ namespace OOP_Úkoly_1_2
             nostnost = 3000;
             naklad = 0;
         }
-        public int Nalozeni1()
+        public int Nalozeni()
         {
-            naklad = naklad + 10000;
+            naklad = 10000;
             if (naklad > nostnost)
             {
-                Console.WriteLine("Nelze naložit. Maximální nostnost je 3 tuny");
+               Console.WriteLine("Nelze naložit. Maximální nostnost je 3 tuny");
+               naklad = naklad * 0;
             }
-            return naklad*0;
-            
+            naklad = 500;
+            Console.WriteLine("Probíhá naložení 500 kilogramů...[ENTER]");
+            Console.ReadKey();
+               
+            return naklad;
         }
-        public int Nalozeni2()
-        {
-            naklad = 0 + 500;
-            if (naklad > nostnost)
-            {
-                Console.WriteLine("Nelze naložit. Maximální nostnost je 3 tuny");
-            }
-            else
-            {
-                Console.WriteLine("Lze naložit "+naklad+" kg");
-            }
-             return naklad;
-        }
-        public int Vylozeni1()
+        public int Vylozeni()
         {
             naklad = naklad - 300;
-            Console.WriteLine("Aktuální náklad: "+naklad);
-            naklad = misto;
+            misto = nostnost - naklad;
+            Console.WriteLine("Aktuální náklad "+naklad+ " zbývající místo je "+misto);
+            
             return naklad;
         }
         //public int Vylozeni2()//Musím se zeptat učitele

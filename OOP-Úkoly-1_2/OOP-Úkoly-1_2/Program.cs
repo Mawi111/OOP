@@ -14,16 +14,23 @@ namespace OOP_Úkoly_1_2
 
             Console.WriteLine("Probíhá první naloženi 10 tun...[ENTER]");
             Console.ReadKey();
-            nakladak.Nalozeni1();
-            Console.WriteLine("Probíhá druhé naloženi 500 kg...[ENTER]");
+            nakladak.Nalozeni();
+            //Console.WriteLine("Probíhá druhé naloženi 500 kilogramů...[ENTER]");
+            //Console.ReadKey();
+            //nakladak.Nalozeni();
+            Console.WriteLine("Probíhá vyložení 300 kilogramů...[ENTER]");
             Console.ReadKey();
-            nakladak.Nalozeni2();
-            Console.WriteLine("Probíhá první vyloženi 300 kg...[ENTER]");
-            Console.ReadKey();
-            nakladak.Vylozeni1();
-            Console.WriteLine("Probíhá druhé vyloženi 1 tuny ...[ENTER]");
-            Console.ReadKey();
-            nakladak.Vylozeni2();
+            nakladak.Vylozeni();
+
+
+            //Console.WriteLine("Probíhá druhé naloženi 500 kg...[ENTER]");
+            //Console.ReadKey();
+            //Console.WriteLine("Probíhá první vyloženi 300 kg...[ENTER]");
+            //Console.ReadKey();
+            //nakladak.Vylozeni();
+            //Console.WriteLine("Probíhá druhé vyloženi 1 tuny ...[ENTER]");
+            //Console.ReadKey();
+
 
             Console.ReadKey();
         }
