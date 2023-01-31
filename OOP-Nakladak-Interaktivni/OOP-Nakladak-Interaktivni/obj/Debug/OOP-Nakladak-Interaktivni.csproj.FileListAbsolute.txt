@@ -1,0 +1,8 @@
+C:\GitHub\OOP\OOP-Nakladak-Interaktivni\OOP-Nakladak-Interaktivni\bin\Debug\OOP-Nakladak-Interaktivni.exe.config
+C:\GitHub\OOP\OOP-Nakladak-Interaktivni\OOP-Nakladak-Interaktivni\bin\Debug\OOP-Nakladak-Interaktivni.exe
+C:\GitHub\OOP\OOP-Nakladak-Interaktivni\OOP-Nakladak-Interaktivni\bin\Debug\OOP-Nakladak-Interaktivni.pdb
+C:\GitHub\OOP\OOP-Nakladak-Interaktivni\OOP-Nakladak-Interaktivni\obj\Debug\OOP-Nakladak-Interaktivni.csproj.AssemblyReference.cache
+C:\GitHub\OOP\OOP-Nakladak-Interaktivni\OOP-Nakladak-Interaktivni\obj\Debug\OOP-Nakladak-Interaktivni.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\OOP\OOP-Nakladak-Interaktivni\OOP-Nakladak-Interaktivni\obj\Debug\OOP-Nakladak-Interaktivni.csproj.CoreCompileInputs.cache
+C:\GitHub\OOP\OOP-Nakladak-Interaktivni\OOP-Nakladak-Interaktivni\obj\Debug\OOP-Nakladak-Interaktivni.exe
+C:\GitHub\OOP\OOP-Nakladak-Interaktivni\OOP-Nakladak-Interaktivni\obj\Debug\OOP-Nakladak-Interaktivni.pdb
