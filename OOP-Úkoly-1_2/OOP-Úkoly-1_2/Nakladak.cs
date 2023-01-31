@@ -11,7 +11,7 @@ namespace OOP_Úkoly_1_2
     {
         public int naklad;
         public int nostnost;
-        public int misto;
+        public int vyklad;
 
         public Nakladak()
         {
@@ -20,6 +20,8 @@ namespace OOP_Úkoly_1_2
         }
         public int Nalozeni()
         {
+            Console.WriteLine("Probíhá první naloženi 10 tun...[ENTER]");
+            Console.ReadKey();
             naklad = 10000;
             if (naklad > nostnost)
             {
@@ -35,22 +37,17 @@ namespace OOP_Úkoly_1_2
         public int Vylozeni()
         {
             naklad = naklad - 300;
-            misto = nostnost - naklad;
-            Console.WriteLine("Aktuální náklad "+naklad+ " zbývající místo je "+misto);
-            
+            Console.WriteLine("Probíhá vyložení 300 kilogramů...[ENTER]");
+            Console.ReadKey();
+            Console.WriteLine("Probíhá vyložení 1 tuny...[ENTER]");
+            Console.ReadKey();
+            vyklad = 10000;
+            if (vyklad > naklad)
+            {
+                Console.WriteLine("Nelze vyložit 1 tunu");
+            }
+            Console.WriteLine("Aktuální náklad "+naklad+" kilogramů");
             return naklad;
         }
-        //public int Vylozeni2()//Musím se zeptat učitele
-        //{
-        //    misto = naklad;
-        //    naklad = naklad - 1000;
-        //    if (naklad < misto)
-        //    {
-        //        Console.WriteLine("Nemůžu vyložit 1 tunu, když mám na korbě "+misto);
-        //    }
-        //    return naklad;
-        //}
-
-
     }
 }
