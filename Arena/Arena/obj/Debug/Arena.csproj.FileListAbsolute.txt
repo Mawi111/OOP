@@ -1,0 +1,8 @@
+C:\GitHub\OOP\Arena\Arena\bin\Debug\Arena.exe.config
+C:\GitHub\OOP\Arena\Arena\bin\Debug\Arena.exe
+C:\GitHub\OOP\Arena\Arena\bin\Debug\Arena.pdb
+C:\GitHub\OOP\Arena\Arena\obj\Debug\Arena.csproj.AssemblyReference.cache
+C:\GitHub\OOP\Arena\Arena\obj\Debug\Arena.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\OOP\Arena\Arena\obj\Debug\Arena.csproj.CoreCompileInputs.cache
+C:\GitHub\OOP\Arena\Arena\obj\Debug\Arena.exe
+C:\GitHub\OOP\Arena\Arena\obj\Debug\Arena.pdb

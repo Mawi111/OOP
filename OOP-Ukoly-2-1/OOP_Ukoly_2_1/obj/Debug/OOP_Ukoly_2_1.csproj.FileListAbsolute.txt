@@ -1,0 +1,8 @@
+C:\GitHub\OOP\OOP_Ukoly_2_1\OOP_Ukoly_2_1\bin\Debug\OOP_Ukoly_2_1.exe.config
+C:\GitHub\OOP\OOP_Ukoly_2_1\OOP_Ukoly_2_1\bin\Debug\OOP_Ukoly_2_1.exe
+C:\GitHub\OOP\OOP_Ukoly_2_1\OOP_Ukoly_2_1\bin\Debug\OOP_Ukoly_2_1.pdb
+C:\GitHub\OOP\OOP_Ukoly_2_1\OOP_Ukoly_2_1\obj\Debug\OOP_Ukoly_2_1.csproj.AssemblyReference.cache
+C:\GitHub\OOP\OOP_Ukoly_2_1\OOP_Ukoly_2_1\obj\Debug\OOP_Ukoly_2_1.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\OOP\OOP_Ukoly_2_1\OOP_Ukoly_2_1\obj\Debug\OOP_Ukoly_2_1.csproj.CoreCompileInputs.cache
+C:\GitHub\OOP\OOP_Ukoly_2_1\OOP_Ukoly_2_1\obj\Debug\OOP_Ukoly_2_1.exe
+C:\GitHub\OOP\OOP_Ukoly_2_1\OOP_Ukoly_2_1\obj\Debug\OOP_Ukoly_2_1.pdb

@@ -12,14 +12,9 @@ namespace OOP_Úkoly_1_1
         public float b;
         public float v;
 
-        //public Kalkulacka() Proč to není potřeba??
-        //{
-        //    this.a = a;
-        //    this.b = b;
-        //}
         public float Soucet()
         {
-           return v=a+b;
+           return v = a + b;
         }
         public float Rozdil()
         {
@@ -32,6 +27,7 @@ namespace OOP_Úkoly_1_1
         public float Podil()
         {
             return v = a / b;
+            
         }
 
 

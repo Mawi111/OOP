@@ -12,6 +12,8 @@ namespace OOP_Nakladak_Interaktivni
         {
 
             Nakladak nakladak = new Nakladak();
+            Console.WriteLine("Kolik chceš naložit? (kg)");
+            nakladak.naklad = int.Parse(Console.ReadLine());
             nakladak.Nalozeni();
             nakladak.Vylozeni();
             Console.ReadKey();

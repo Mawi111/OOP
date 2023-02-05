@@ -19,8 +19,6 @@ namespace OOP_Nakladak_Interaktivni
         }
         public int Nalozeni()
         {
-            Console.WriteLine("Kolik chceš naložit? (kg)");
-            naklad = int.Parse(Console.ReadLine());    
             if (naklad > nostnost)
             {
                 Console.WriteLine("Nelze naložit. Maximální nostnost je 3 tuny...[ENTER]");
