@@ -1,0 +1,23 @@
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\2 - oop\3 - Konstruktory a náhodná čísla\GeneratorVet\GeneratorVet\bin\Debug\GeneratorVet.exe.config
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\2 - oop\3 - Konstruktory a náhodná čísla\GeneratorVet\GeneratorVet\bin\Debug\GeneratorVet.exe
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\2 - oop\3 - Konstruktory a náhodná čísla\GeneratorVet\GeneratorVet\bin\Debug\GeneratorVet.pdb
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\2 - oop\3 - Konstruktory a náhodná čísla\GeneratorVet\GeneratorVet\obj\Debug\GeneratorVet.csprojResolveAssemblyReference.cache
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\2 - oop\3 - Konstruktory a náhodná čísla\GeneratorVet\GeneratorVet\obj\Debug\GeneratorVet.exe
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Projects - ALL\2 - oop\3 - Konstruktory a náhodná čísla\GeneratorVet\GeneratorVet\obj\Debug\GeneratorVet.pdb
+C:\Users\David\Desktop\fls\cviceni_oop_lekce3\GeneratorVet\GeneratorVet\bin\Debug\GeneratorVet.exe.config
+C:\Users\David\Desktop\fls\cviceni_oop_lekce3\GeneratorVet\GeneratorVet\obj\Debug\GeneratorVet.exe
+C:\Users\David\Desktop\fls\cviceni_oop_lekce3\GeneratorVet\GeneratorVet\obj\Debug\GeneratorVet.pdb
+D:\Downloads\cviceni_oop_lekce3\GeneratorVet\GeneratorVet\bin\Debug\GeneratorVet.exe.config
+D:\Downloads\cviceni_oop_lekce3\GeneratorVet\GeneratorVet\obj\Debug\GeneratorVet.exe
+D:\Downloads\cviceni_oop_lekce3\GeneratorVet\GeneratorVet\obj\Debug\GeneratorVet.pdb
+D:\Downloads\cviceni_oop_lekce3\GeneratorVet\GeneratorVet\bin\Debug\GeneratorVet.exe
+D:\Downloads\cviceni_oop_lekce3\GeneratorVet\GeneratorVet\bin\Debug\GeneratorVet.pdb
+D:\Downloads\cviceni_oop_lekce3\GeneratorVet\GeneratorVet\obj\Debug\GeneratorVet.csprojResolveAssemblyReference.cache
+C:\Users\VitoT\Desktop\GeneratorVet\GeneratorVet\bin\Debug\GeneratorVet.exe.config
+C:\Users\VitoT\Desktop\GeneratorVet\GeneratorVet\bin\Debug\GeneratorVet.exe
+C:\Users\VitoT\Desktop\GeneratorVet\GeneratorVet\bin\Debug\GeneratorVet.pdb
+C:\Users\VitoT\Desktop\GeneratorVet\GeneratorVet\obj\Debug\GeneratorVet.csproj.AssemblyReference.cache
+C:\Users\VitoT\Desktop\GeneratorVet\GeneratorVet\obj\Debug\GeneratorVet.csproj.SuggestedBindingRedirects.cache
+C:\Users\VitoT\Desktop\GeneratorVet\GeneratorVet\obj\Debug\GeneratorVet.csproj.CoreCompileInputs.cache
+C:\Users\VitoT\Desktop\GeneratorVet\GeneratorVet\obj\Debug\GeneratorVet.exe
+C:\Users\VitoT\Desktop\GeneratorVet\GeneratorVet\obj\Debug\GeneratorVet.pdb
