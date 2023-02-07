@@ -10,10 +10,10 @@ namespace OOP_Ukoly_2_2
     {
         static void Main(string[] args)
         {
-            //GeneratorSlov podmet1 = new GeneratorSlov("");
+            
             GeneratorSlov generatorSlov = new GeneratorSlov();
 
-            Console.WriteLine(generatorSlov.vratSlova());
+            Console.WriteLine(generatorSlov.ToString());
 
             Console.ReadKey();
         }

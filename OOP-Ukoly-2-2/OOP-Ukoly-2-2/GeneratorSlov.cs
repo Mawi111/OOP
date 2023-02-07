@@ -8,39 +8,39 @@ namespace OOP_Ukoly_2_2
 {
     internal class GeneratorSlov
     {
-        private string podmety; 
-        private string prisudky;
-        private string privlastky;
-        private string prislovce;
-        private string pum;
+        private string[] privlastky = {" modrý " , " velký ", " hubený ", " nejlepší ", " automatizovaný "};
+        private string[] podmety = { " jednorožec ", " programator ", " manažer " , " hroch ", " T-rex "};
+        private string[] prisudky = { " spal ", " ležel ", " vařil ", " uklízel ", " derivoval " };
+        private string[] prislovce = { " rychle ", " s oblibou ", " hodně ", " málo ", " se zpožděním "};
+        private string[] pum = { " pod stromem ", " v lese ", " u babičky ", " v práci ", " na stole "};
         private Random random;
 
         public GeneratorSlov()
         {
-            podmety = " jednorožec";
-            prisudky = " spal";
-            privlastky = " modrý";
-            prislovce = " rychle";
-            pum = " pod stolem";
+            Array.Sort(podmety);
+            foreach (string s in podmety)
+            {
+                Console.Write("{0} ", s);
+            }
             random = new Random();
         }
-        public GeneratorSlov(string apodmety, string aprisudky, string aprivlastky, string aprislovce, string apum)
+        public GeneratorSlov(string podmety)
         {
-            podmety = apodmety;
-            prisudky = aprisudky;
-            privlastky = aprivlastky;
-            prislovce = aprislovce;
-            pum = apum;
+            podmety = podmety;
             random = new Random();
         }
+        public  string[] vratPodmety()
+        {
+            return podmety;
+        }
+        public string prohozeni(string[] podmety)
+        {
+            return random.Next(podmety);
+        }
+        public override string ToString()
+        {
+            return String.Format("{0} ", podmety[3] , privlastky[4]);
 
-        public string vratSlova()
-        {
-            return privlastky + podmety + prislovce + prisudky + pum; 
-        }
-        public string prohozeni()
-        {
-            return random.Next(1, podmety + 1);
         }
     }
 }
