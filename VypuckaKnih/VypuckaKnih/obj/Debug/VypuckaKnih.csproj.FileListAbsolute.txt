@@ -1,0 +1,8 @@
+C:\GitHub\OOP\VypuckaKnih\VypuckaKnih\bin\Debug\VypuckaKnih.exe.config
+C:\GitHub\OOP\VypuckaKnih\VypuckaKnih\bin\Debug\VypuckaKnih.exe
+C:\GitHub\OOP\VypuckaKnih\VypuckaKnih\bin\Debug\VypuckaKnih.pdb
+C:\GitHub\OOP\VypuckaKnih\VypuckaKnih\obj\Debug\VypuckaKnih.csproj.AssemblyReference.cache
+C:\GitHub\OOP\VypuckaKnih\VypuckaKnih\obj\Debug\VypuckaKnih.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\OOP\VypuckaKnih\VypuckaKnih\obj\Debug\VypuckaKnih.csproj.CoreCompileInputs.cache
+C:\GitHub\OOP\VypuckaKnih\VypuckaKnih\obj\Debug\VypuckaKnih.exe
+C:\GitHub\OOP\VypuckaKnih\VypuckaKnih\obj\Debug\VypuckaKnih.pdb

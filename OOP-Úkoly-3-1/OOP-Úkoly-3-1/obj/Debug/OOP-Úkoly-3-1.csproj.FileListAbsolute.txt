@@ -1,0 +1,8 @@
+C:\GitHub\OOP\OOP-Úkoly-3-1\OOP-Úkoly-3-1\bin\Debug\OOP-Úkoly-3-1.exe.config
+C:\GitHub\OOP\OOP-Úkoly-3-1\OOP-Úkoly-3-1\bin\Debug\OOP-Úkoly-3-1.exe
+C:\GitHub\OOP\OOP-Úkoly-3-1\OOP-Úkoly-3-1\bin\Debug\OOP-Úkoly-3-1.pdb
+C:\GitHub\OOP\OOP-Úkoly-3-1\OOP-Úkoly-3-1\obj\Debug\OOP-Úkoly-3-1.csproj.AssemblyReference.cache
+C:\GitHub\OOP\OOP-Úkoly-3-1\OOP-Úkoly-3-1\obj\Debug\OOP-Úkoly-3-1.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\OOP\OOP-Úkoly-3-1\OOP-Úkoly-3-1\obj\Debug\OOP-Úkoly-3-1.csproj.CoreCompileInputs.cache
+C:\GitHub\OOP\OOP-Úkoly-3-1\OOP-Úkoly-3-1\obj\Debug\OOP-Úkoly-3-1.exe
+C:\GitHub\OOP\OOP-Úkoly-3-1\OOP-Úkoly-3-1\obj\Debug\OOP-Úkoly-3-1.pdb
