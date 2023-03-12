@@ -1,0 +1,17 @@
+C:\GitHub\OOP\OOP-FORM-1-Kalkulačka\OOP-FORM-1-Kalkulačka\bin\Debug\net6.0-windows\OOP-FORM-1-Kalkulačka.exe
+C:\GitHub\OOP\OOP-FORM-1-Kalkulačka\OOP-FORM-1-Kalkulačka\bin\Debug\net6.0-windows\OOP-FORM-1-Kalkulačka.deps.json
+C:\GitHub\OOP\OOP-FORM-1-Kalkulačka\OOP-FORM-1-Kalkulačka\bin\Debug\net6.0-windows\OOP-FORM-1-Kalkulačka.runtimeconfig.json
+C:\GitHub\OOP\OOP-FORM-1-Kalkulačka\OOP-FORM-1-Kalkulačka\bin\Debug\net6.0-windows\OOP-FORM-1-Kalkulačka.dll
+C:\GitHub\OOP\OOP-FORM-1-Kalkulačka\OOP-FORM-1-Kalkulačka\bin\Debug\net6.0-windows\OOP-FORM-1-Kalkulačka.pdb
+C:\GitHub\OOP\OOP-FORM-1-Kalkulačka\OOP-FORM-1-Kalkulačka\obj\Debug\net6.0-windows\OOP-FORM-1-Kalkulačka.csproj.AssemblyReference.cache
+C:\GitHub\OOP\OOP-FORM-1-Kalkulačka\OOP-FORM-1-Kalkulačka\obj\Debug\net6.0-windows\OOP_FORM_1_Kalkulačka.Form1.resources
+C:\GitHub\OOP\OOP-FORM-1-Kalkulačka\OOP-FORM-1-Kalkulačka\obj\Debug\net6.0-windows\OOP-FORM-1-Kalkulačka.csproj.GenerateResource.cache
+C:\GitHub\OOP\OOP-FORM-1-Kalkulačka\OOP-FORM-1-Kalkulačka\obj\Debug\net6.0-windows\OOP-FORM-1-Kalkulačka.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\OOP\OOP-FORM-1-Kalkulačka\OOP-FORM-1-Kalkulačka\obj\Debug\net6.0-windows\OOP-FORM-1-Kalkulačka.AssemblyInfoInputs.cache
+C:\GitHub\OOP\OOP-FORM-1-Kalkulačka\OOP-FORM-1-Kalkulačka\obj\Debug\net6.0-windows\OOP-FORM-1-Kalkulačka.AssemblyInfo.cs
+C:\GitHub\OOP\OOP-FORM-1-Kalkulačka\OOP-FORM-1-Kalkulačka\obj\Debug\net6.0-windows\OOP-FORM-1-Kalkulačka.csproj.CoreCompileInputs.cache
+C:\GitHub\OOP\OOP-FORM-1-Kalkulačka\OOP-FORM-1-Kalkulačka\obj\Debug\net6.0-windows\OOP-FORM-1-Kalkulačka.dll
+C:\GitHub\OOP\OOP-FORM-1-Kalkulačka\OOP-FORM-1-Kalkulačka\obj\Debug\net6.0-windows\refint\OOP-FORM-1-Kalkulačka.dll
+C:\GitHub\OOP\OOP-FORM-1-Kalkulačka\OOP-FORM-1-Kalkulačka\obj\Debug\net6.0-windows\OOP-FORM-1-Kalkulačka.pdb
+C:\GitHub\OOP\OOP-FORM-1-Kalkulačka\OOP-FORM-1-Kalkulačka\obj\Debug\net6.0-windows\OOP-FORM-1-Kalkulačka.genruntimeconfig.cache
+C:\GitHub\OOP\OOP-FORM-1-Kalkulačka\OOP-FORM-1-Kalkulačka\obj\Debug\net6.0-windows\ref\OOP-FORM-1-Kalkulačka.dll

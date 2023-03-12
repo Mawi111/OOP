@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OOP-FORM-1-Kalkulačka/1.0.0": {
+        "runtime": {
+          "OOP-FORM-1-Kalkulačka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP-FORM-1-Kalkulačka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

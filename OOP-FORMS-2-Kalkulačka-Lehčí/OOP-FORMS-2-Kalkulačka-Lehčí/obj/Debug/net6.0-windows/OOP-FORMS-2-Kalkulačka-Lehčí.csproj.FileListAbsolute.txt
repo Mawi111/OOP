@@ -1,0 +1,17 @@
+C:\GitHub\OOP\OOP-FORMS-2-Kalkulačka-Lehčí\OOP-FORMS-2-Kalkulačka-Lehčí\bin\Debug\net6.0-windows\OOP-FORMS-2-Kalkulačka-Lehčí.exe
+C:\GitHub\OOP\OOP-FORMS-2-Kalkulačka-Lehčí\OOP-FORMS-2-Kalkulačka-Lehčí\bin\Debug\net6.0-windows\OOP-FORMS-2-Kalkulačka-Lehčí.deps.json
+C:\GitHub\OOP\OOP-FORMS-2-Kalkulačka-Lehčí\OOP-FORMS-2-Kalkulačka-Lehčí\bin\Debug\net6.0-windows\OOP-FORMS-2-Kalkulačka-Lehčí.runtimeconfig.json
+C:\GitHub\OOP\OOP-FORMS-2-Kalkulačka-Lehčí\OOP-FORMS-2-Kalkulačka-Lehčí\bin\Debug\net6.0-windows\OOP-FORMS-2-Kalkulačka-Lehčí.dll
+C:\GitHub\OOP\OOP-FORMS-2-Kalkulačka-Lehčí\OOP-FORMS-2-Kalkulačka-Lehčí\bin\Debug\net6.0-windows\OOP-FORMS-2-Kalkulačka-Lehčí.pdb
+C:\GitHub\OOP\OOP-FORMS-2-Kalkulačka-Lehčí\OOP-FORMS-2-Kalkulačka-Lehčí\obj\Debug\net6.0-windows\OOP-FORMS-2-Kalkulačka-Lehčí.csproj.AssemblyReference.cache
+C:\GitHub\OOP\OOP-FORMS-2-Kalkulačka-Lehčí\OOP-FORMS-2-Kalkulačka-Lehčí\obj\Debug\net6.0-windows\OOP_FORMS_2_Kalkulačka_Lehčí.Form1.resources
+C:\GitHub\OOP\OOP-FORMS-2-Kalkulačka-Lehčí\OOP-FORMS-2-Kalkulačka-Lehčí\obj\Debug\net6.0-windows\OOP-FORMS-2-Kalkulačka-Lehčí.csproj.GenerateResource.cache
+C:\GitHub\OOP\OOP-FORMS-2-Kalkulačka-Lehčí\OOP-FORMS-2-Kalkulačka-Lehčí\obj\Debug\net6.0-windows\OOP-FORMS-2-Kalkulačka-Lehčí.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\OOP\OOP-FORMS-2-Kalkulačka-Lehčí\OOP-FORMS-2-Kalkulačka-Lehčí\obj\Debug\net6.0-windows\OOP-FORMS-2-Kalkulačka-Lehčí.AssemblyInfoInputs.cache
+C:\GitHub\OOP\OOP-FORMS-2-Kalkulačka-Lehčí\OOP-FORMS-2-Kalkulačka-Lehčí\obj\Debug\net6.0-windows\OOP-FORMS-2-Kalkulačka-Lehčí.AssemblyInfo.cs
+C:\GitHub\OOP\OOP-FORMS-2-Kalkulačka-Lehčí\OOP-FORMS-2-Kalkulačka-Lehčí\obj\Debug\net6.0-windows\OOP-FORMS-2-Kalkulačka-Lehčí.csproj.CoreCompileInputs.cache
+C:\GitHub\OOP\OOP-FORMS-2-Kalkulačka-Lehčí\OOP-FORMS-2-Kalkulačka-Lehčí\obj\Debug\net6.0-windows\OOP-FORMS-2-Kalkulačka-Lehčí.dll
+C:\GitHub\OOP\OOP-FORMS-2-Kalkulačka-Lehčí\OOP-FORMS-2-Kalkulačka-Lehčí\obj\Debug\net6.0-windows\refint\OOP-FORMS-2-Kalkulačka-Lehčí.dll
+C:\GitHub\OOP\OOP-FORMS-2-Kalkulačka-Lehčí\OOP-FORMS-2-Kalkulačka-Lehčí\obj\Debug\net6.0-windows\OOP-FORMS-2-Kalkulačka-Lehčí.pdb
+C:\GitHub\OOP\OOP-FORMS-2-Kalkulačka-Lehčí\OOP-FORMS-2-Kalkulačka-Lehčí\obj\Debug\net6.0-windows\OOP-FORMS-2-Kalkulačka-Lehčí.genruntimeconfig.cache
+C:\GitHub\OOP\OOP-FORMS-2-Kalkulačka-Lehčí\OOP-FORMS-2-Kalkulačka-Lehčí\obj\Debug\net6.0-windows\ref\OOP-FORMS-2-Kalkulačka-Lehčí.dll
